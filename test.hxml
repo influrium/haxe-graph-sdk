@@ -1,0 +1,8 @@
+-debug
+-cp src
+-cp test
+-lib utest
+-dce no
+-main Main
+-neko test.n
+-cmd neko test.n

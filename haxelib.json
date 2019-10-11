@@ -1,0 +1,14 @@
+{
+  "name": "haxe-graph-sdk",
+  "license": "MIT",
+  "tags": ["cross","api"],
+  "description": "The Facebook SDK for Haxe provides a native interface to the Graph API and Facebook Login.",
+  "contributors": ["constnw"],
+  "releasenote": "initial commit",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "url": "http://github.com/influrium/haxe-graph-sdk/",
+  "dependencies": {
+
+  }
+}
